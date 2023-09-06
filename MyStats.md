@@ -15,5 +15,15 @@ Hello!My self Harini,Iam from Hyderabad.I completed my graduation recently in ju
 |Basket Ball|Improves Physical Health|Two|
 |Badminton|Improves flexibility|One|
 
+****
+
+# Quotes
+
+>"The more I learn, the more I realize how much I don't know."-Isaac Newton
+
+>"Imagination is more important than knowledge." - Albert Einstein
+
+
+
 
 
