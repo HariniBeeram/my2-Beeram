@@ -16,5 +16,4 @@ THINGS TO DO
 * Onion soup
 * Streak fries.
 
-___link to the Mystats.md:___
-https://github.com/HariniBeeram/my2-Beeram/blob/main/MyStats.md
+[link about myself](myStats.md)
