@@ -10,6 +10,7 @@ THINGS TO DO
 2. Photoshoot near eiffel tower.
 3. Dinner in cruise with live music.
 
+------------------------------------
 
 * Croissants.
 * Macarons.
@@ -17,3 +18,4 @@ THINGS TO DO
 * Streak fries.
 
 [link about myself](MyStats.md)
+
