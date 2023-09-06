@@ -5,12 +5,14 @@ Paris is a city that's renowed for its architectural Beauty.I like eiffel tower 
 **Eiffel tower**,**Architecture** 
 
 -------------------------------------
-THINGS TO DO
+# ordered list
+
 1. Bike tours over the streets.
 2. Photoshoot near eiffel tower.
 3. Dinner in cruise with live music.
 
 ------------------------------------
+# unordered list 
 
 * Croissants.
 * Macarons.
