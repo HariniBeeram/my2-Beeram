@@ -16,4 +16,4 @@ THINGS TO DO
 * Onion soup
 * Streak fries.
 
-[link about myself](myStats.md)
+[link about myself](MyStats.md)
